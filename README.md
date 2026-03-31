@@ -2,7 +2,7 @@
 A Fabric 1.21.11 Mod that shows a recreation of the Fallout 4 Power Armor HUD. All Client-Side.
 
 # How to use:
-Download the .jar file and put it in your Minecraft Mods folder.
+Download the .jar file from the "Releases" tab and put it in your Minecraft Mods folder.
 To use, name a Netherite Helmet "T-60b"
 
 # Keybinds:
