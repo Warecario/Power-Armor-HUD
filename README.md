@@ -1,5 +1,6 @@
 # Power-Armor-HUD:
 A Fabric 1.21.11 Mod that shows a recreation of the Fallout 4 Power Armor HUD. All Client-Side.
+WARNING: This mod may trigger epileptic seizures. User discretion is advised when using this mod. Use at your own risk.
 
 # How to use:
 Download the .jar file from the "Releases" tab and put it in your Minecraft Mods folder.
